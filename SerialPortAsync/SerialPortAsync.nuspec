@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/LwServices/AsyncSerialPort</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Serial Port Async version First Release</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>SerialPort</tags>
+  </metadata>
+</package>
